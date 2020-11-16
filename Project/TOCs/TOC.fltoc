@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Front"
+    Link="/Content/Front.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Front.flpgl" />
+  <TocEntry
+    Title="Back"
+    Link="/Content/Back.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Back.flpgl" />
+</CatapultToc>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="20in" Height="5in" Padding="1in" PageSize="custom" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" Orientation="portrait">
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0" ColumnDivider="Solid 1pt Black" Width="10in" Height="5in" X="0px" Y="0px" Right="960px" Bottom="0px" Anchors="" PaddingLeft="30px" PaddingRight="530px" PaddingTop="50px" PaddingBottom="50px" DividerTopMargin="0" BackgroundPositionX="right" BackgroundRepeat="no-repeat" BackgroundImage="../Images/Background-Panel2.png">
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0" ColumnDivider="Solid 1pt Black" Width="5in" Height="5in" X="960px" Y="0px" Right="480px" Bottom="0px" Anchors="" PaddingLeft="30px" PaddingRight="30px" PaddingTop="80px" PaddingBottom="50px" DividerTopMargin="0" FlowIndex="2">
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0" ColumnDivider="Solid 1pt Black" Width="5in" Height="5in" X="1440px" Y="0px" Right="0px" Bottom="0px" Anchors="" PaddingLeft="30px" PaddingRight="30px" PaddingTop="120px" PaddingBottom="50px" DividerTopMargin="0" FlowIndex="3" BackgroundType="Solid" BackgroundColor="#076685">
+        </Frame>
+    </Page>
+</PageStyles>

@@ -1,0 +1,173 @@
+/*<meta />*/
+
+:root
+{
+	--Brand1: #076685;
+	--Brand2: #CDE0E7;
+	--Black: #000000;
+	--Dark: #45494c;
+	--White: #ffffff;
+}
+
+body
+{
+	color: var(--Dark);
+	font-family: Arial, Avenir, Myriad;
+	font-size: 9pt;
+	line-height: 12pt;
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+/* Content */
+
+div.step
+{
+	height: 200px;
+	width: 430px;
+	background-color: var(--Brand2);
+	padding-top: 40px;
+}
+
+img.step
+{
+	margin-top: 550px;
+}
+
+p.copyright
+{
+	font-size: 7pt;
+	line-height: 10pt;
+	margin-bottom: 6px;
+	margin-top: 6px;
+}
+
+p.created-using-flare
+{
+	color: var(--White);
+	font-size: 13pt;
+	line-height: 15pt;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+p.get-started1
+{
+	color: var(--White);
+	font-size: 19pt;
+	line-height: 15pt;
+	margin-bottom: 12px;
+}
+
+p.get-started2
+{
+	color: var(--White);
+	font-size: 19pt;
+	line-height: 15pt;
+	margin-bottom: 40px;
+	margin-top: 12px;
+}
+
+p.large
+{
+	font-size: 13pt;
+	line-height: 15pt;
+}
+
+p.large-light
+{
+	color: var(--White);
+	font-size: 13pt;
+	line-height: 15pt;
+}
+
+p.large-light-url
+{
+	color: var(--White);
+	font-size: 13pt;
+	line-height: 15pt;
+	text-decoration: underline;
+}
+
+p.logo
+{
+	margin-top: 40px;
+	text-align: center;
+}
+
+p.step
+{
+	color: var(--Black);
+	font-size: 11pt;
+	font-weight: bold;
+	margin-bottom: 14px;
+	margin-top: 30px;
+	text-transform: uppercase;
+}
+
+p.step-image
+{
+	margin-top: 50px;
+	text-align: center;
+}
+
+p.title
+{
+	color: var(--White);
+	font-size: 30pt;
+	font-weight: bold;
+	line-height: 40pt;
+	margin-top: 50px;
+	text-align: center;
+}
+
+/* Headings */
+
+h1
+{
+	color: var(--Brand1);
+	font-size: 25pt;
+	font-weight: bold;
+	line-height: 28pt;
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+
+h2
+{
+	color: var(--Black);
+	font-size: 11pt;
+	font-weight: bold;
+	frame-break-before: always;
+	margin-bottom: 14px;
+	margin-top: 34px;
+	text-transform: uppercase;
+}
+
+h2.no-frame-break
+{
+	frame-break-before: avoid;
+}
+
+/* Lists */
+
+li
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+li p
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+ol,
+ul
+{
+	letter-spacing: .25;
+	line-height: 20pt;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
